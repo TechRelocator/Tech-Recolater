@@ -16,7 +16,7 @@ Provide job information by location, skills, interest
 
 [Click here for Software Requirements Documentation](https://docs.google.com/document/d/1uNsLwTghNdRuhU91hhR9tAfnQ0FBedqrMD659uALwac/edit#heading=h.4vb9njxdiurg)
 
-# Data Flow
+# Data Flow / Domain Modeling
 
 [Click here for Data Flow Requirements Documentation](https://www.figma.com/file/Xs7KWMTooqGyDgUJHHS8Cd/Tech-Relocators-Domain-Model?type=whiteboard&node-id=0-1&t=8KkkAJ3ARZ5MjiXi-0)
 
