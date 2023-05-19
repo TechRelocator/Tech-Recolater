@@ -51,6 +51,6 @@ Rotating, back ups, peer 2 peer, primary responsibilities, task
 4. Yes we will
 
 - static,
-- 2 approvers,
+- 1 approvers,
 - 1 merge at eod
 - end of day chat
