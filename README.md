@@ -7,7 +7,7 @@
 
 ## Description
 
-Provide job information by location, skills, interest
+Showcase Data across the US for Tech Job Market opening within the last year. Allowing users to access skills for those job fields, information for locations, and save a user profile.
 
 ## Trello
 [Board](https://trello.com/b/Vh0RhuDe/tech-relocator)
