@@ -1,10 +1,9 @@
 # ProjectPrep
 
 ## Team Members
-
-Diontre Sanders
-Mandela Steele-Dadzie
-Mike Shen
+- Diontre Sanders
+- Mandela Steele-Dadzie
+- Mike Shen
 
 ## Description
 
